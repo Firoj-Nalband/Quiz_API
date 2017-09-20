@@ -1,0 +1,7 @@
+Django==1.11.5
+Markdown==2.6.9
+argparse==1.2.1
+django-filter==1.0.4
+djangorestframework==3.6.4
+pytz==2017.2
+wsgiref==0.1.2
